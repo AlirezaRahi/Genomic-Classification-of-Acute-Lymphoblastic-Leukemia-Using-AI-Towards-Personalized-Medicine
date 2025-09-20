@@ -24,7 +24,7 @@ The final ensemble model achieved the following performance on the held-out test
 | **Acute Lymphoblastic Leukemia Ph-positive** | 0.80 | 1.00 | 0.89 | 4 |
 | **Acute Lymphoblastic Leukemia MLL-rearranged** | 1.00 | 0.25 | 0.40 | 4 |
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 The project implements a powerful stacking ensemble method:
 1. **Base Learners:** Three distinct deep learning architectures are trained independently on the genomic data.

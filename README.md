@@ -5,7 +5,7 @@ This repository contains the code for a sophisticated deep learning ensemble mod
 **DOI**: 
 **Publication Date**: 
 
-## 📊 Model Performance Summary
+##  Model Performance Summary
 
 The final ensemble model achieved the following performance on the held-out test set:
 
@@ -33,7 +33,7 @@ The project implements a powerful stacking ensemble method:
    - **Dense Network:** A standard fully-connected network for robust feature learning.
 2. **Meta-Learner:** The predictions (class probabilities) from all three base models are concatenated to form a meta-feature set. A **Gradient Boosting Classifier** is then trained on these meta-features to make the final prediction.
 
-## 🛠️ Installation & Usage
+##  Installation & Usage
 
 ### Prerequisites
 Ensure you have Python 3.8+ installed. The required libraries are listed in `requirements.txt`.
@@ -63,7 +63,7 @@ Ensure you have Python 3.8+ installed. The required libraries are listed in `req
 - Model training with Early Stopping, ReduceLROnPlateau, and ModelCheckpoint callbacks.
 - Ensemble prediction and comprehensive evaluation.
 
-## 📁 Outputs
+##  Outputs
 
 After a successful run, the script generates:
 - **Saved Models:** `cnn_model.keras`, `lstm_model.keras`, `dense_model.keras`, `meta_learner.pkl`
@@ -73,7 +73,7 @@ After a successful run, the script generates:
   - `roc_curve_all_subtypes.png`
   - `training_history_*.png` (for each model)
 
-## 🧪 Dataset
+##  Dataset
 
 This work utilizes a novel, balanced gene expression dataset for ALL subtypes, created and published by the author. It is a comprehensive integration of several publicly available landmark studies.
 

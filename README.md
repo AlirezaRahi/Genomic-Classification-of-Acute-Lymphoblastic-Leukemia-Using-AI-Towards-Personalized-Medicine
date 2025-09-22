@@ -1,9 +1,9 @@
 # ALL Subtype Classification: Deep Learning Ensemble Model
 
 This repository contains the code for a sophisticated deep learning ensemble model designed to classify subtypes of Acute Lymphoblastic Leukemia (ALL) from gene expression microarray data. The model combines Convolutional Neural Networks (CNN), Long Short-Term Memory networks (LSTM), and Dense networks, with a Gradient Boosting meta-learner for final prediction.
-**Publication**: 
-**DOI**: 
-**Publication Date**: 
+**Publication**: Genomic Classification of Acute Lymphoblastic Leukemia Using AI: Towards Personalized Medicine
+**DOI**: https://doi.org/10.1101/2025.09.20.25336225
+**Publication Date**: September 21, 2025.
 
 ##  Model Performance Summary
 

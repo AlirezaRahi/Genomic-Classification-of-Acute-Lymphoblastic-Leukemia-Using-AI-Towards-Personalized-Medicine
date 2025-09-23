@@ -1,6 +1,8 @@
-# ALL Subtype Classification: Deep Learning Ensemble Model
+# Genomic Classification of Acute Lymphoblastic Leukemia Using AI Towards Personalized Medicine
 
 This repository contains the code for a sophisticated deep learning ensemble model designed to classify subtypes of Acute Lymphoblastic Leukemia (ALL) from gene expression microarray data. The model combines Convolutional Neural Networks (CNN), Long Short-Term Memory networks (LSTM), and Dense networks, with a Gradient Boosting meta-learner for final prediction.
+
+## Publication
 **Publication**: Genomic Classification of Acute Lymphoblastic Leukemia Using AI: Towards Personalized Medicine
 
 
@@ -92,6 +94,17 @@ This work utilizes a novel, balanced gene expression dataset for ALL subtypes, c
 5.  Haferlach, T. et al. (2007). *Blood*, 109(4), 1551–1561. [GSE3910](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE3910)
 
 *Note: The model is presented here for methodological and reproducibility purposes. Performance is intrinsically linked to the dataset it was trained on.*
+
+## Citation
+
+If you use this work in your research, please cite the paper:
+
+> **Rahi, A., & Shafiabadi, M. H.** (2025). *Genomic Classification of Acute Lymphoblastic Leukemia Using AI: Towards Personalized Medicine*. medRxiv. https://doi.org/10.1101/2025.09.20.25336225 :contentReference[oaicite:0]{index=0}
+
+If you use the code implementation (software, scripts, etc.), please also cite:
+
+> **Rahi, A.** (2025). *Genomic Classification of Acute Lymphoblastic Leukemia Using AI: Towards Personalized Medicine* [Computer software]. GitHub repository, *AlirezaRahi/Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine*. Retrieved from https://github.com/AlirezaRahi/Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine
+ 
 
 ## 👥 Authors
 

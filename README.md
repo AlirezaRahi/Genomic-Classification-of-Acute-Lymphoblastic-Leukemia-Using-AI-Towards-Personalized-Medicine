@@ -99,8 +99,7 @@ This work utilizes a novel, balanced gene expression dataset for ALL subtypes, c
 
 If you use this work in your research, please cite the paper:
 
-> **Rahi, A., & Shafiabadi, M. H.** (2025). *Genomic Classification of Acute Lymphoblastic Leukemia Using AI: Towards Personalized Medicine*. medRxiv. https://doi.org/10.1101/2025.09.20.25336225 :contentReference[oaicite:0]{index=0}
-
+> **Rahi, A., & Shafiabadi, M. H.** (2025). *Genomic Classification of Acute Lymphoblastic Leukemia Using AI: Towards Personalized Medicine*. medRxiv. https://doi.org/10.1101/2025.09.20.25336225 
 If you use the code implementation (software, scripts, etc.), please also cite:
 
 > **Rahi, A.** (2025). *Genomic Classification of Acute Lymphoblastic Leukemia Using AI: Towards Personalized Medicine* [Computer software]. GitHub repository, *AlirezaRahi/Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine*. Retrieved from https://github.com/AlirezaRahi/Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine

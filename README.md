@@ -106,16 +106,12 @@ If you use the code implementation (software, scripts, etc.), please also cite:
 > **Rahi, A.** (2025). *Genomic Classification of Acute Lymphoblastic Leukemia Using AI: Towards Personalized Medicine* [Computer software]. GitHub repository, *AlirezaRahi/Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine*. Retrieved from https://github.com/AlirezaRahi/Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine
  
 
-## 👥 Authors
+##  Author
 
 - **Alireza Rahi**
     - Email: [alireza.rahi@outlook.com](alireza.rahi@outlook.com)
     - LinkedIn: [https://www.linkedin.com/in/alireza-rahi-6938b4154/](https://www.linkedin.com/in/alireza-rahi-6938b4154/)
     - GitHub: [https://github.com/AlirezaRahi](https://github.com/AlirezaRahi)
-
-- **Dr. Mohammad Hossein Shafiabadi** (Co-author / Advisor)
-    - Department of Computer Engineering, Islamic Azad University, Islamshahr Branch, Iran
-    - Email: [mh.shafiabadi@iau.ac.ir](mh.shafiabadi@iau.ac.ir)
 
 ## 📜 License
 
